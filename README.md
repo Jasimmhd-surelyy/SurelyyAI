@@ -1,4 +1,4 @@
-# Surelyy-ai
+# Surelyy-AI
 Surelyy is an AI‑ready recommendation engine that helps users find the right recommendations for movies, products, and AI tools based on their preferences and history, instead of random or generic suggestions.
 
 ## 🎯 What Surelyy does
