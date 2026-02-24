@@ -4,7 +4,7 @@ AI powered recommendation engine for products, movies, and tools.
 
 ## Live Demo
 
-[Visit Surelyy](https://your-surelyy-url.com)
+[Visit Surelyy](https://surelyy.me)
 
 ## Overview
 
@@ -15,7 +15,6 @@ It processes structured inputs, applies filtering logic, ranks results, and retu
 
 - Personalized recommendation flow  
 - Preference based filtering  
-- Dynamic ranking logic  
 - Clean UI for input and output  
 
 
