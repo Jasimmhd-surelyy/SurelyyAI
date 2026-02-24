@@ -1,0 +1,30 @@
+# Surelyy AI
+
+AI powered recommendation engine for products, movies, and tools.
+
+## Live Demo
+
+[Visit Surelyy](https://your-surelyy-url.com)
+
+## Overview
+
+Surelyy generates personalized recommendations based on user preferences.  
+It processes structured inputs, applies filtering logic, ranks results, and returns optimized suggestions.
+
+## Features
+
+- Personalized recommendation flow  
+- Preference based filtering  
+- Dynamic ranking logic  
+- Clean UI for input and output  
+
+
+## How It Works
+
+1. User submits preferences.  
+2. System validates and structures input data.  
+3. Filtering engine narrows candidate results.  
+4. Ranking logic scores and sorts outputs.  
+5. Top results are returned to the user.
+
+
