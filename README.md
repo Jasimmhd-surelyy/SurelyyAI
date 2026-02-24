@@ -1,5 +1,9 @@
-# Surelyy-AI
+# SurelyyAI
 Surelyy is an AI‑ready recommendation engine that helps users find the right recommendations for movies, products, and AI tools based on their preferences and history, instead of random or generic suggestions.
+
+## Live Demo
+
+[Visit Surelyy](https://surelyy.me)
 
 ## 🎯 What Surelyy does
 Nowadays, many of us experience decision fatigue, spending a lot of time finalizing choices ;either on our own or using AI tools like ChatGPT or Google Gemini. These models usually generate suggestions based on general patterns from their training data, meaning they often recommend what works for most people rather than adapting deeply to an individual’s preferences and behavior.
